@@ -15,3 +15,4 @@ if score >= 70 and assistance >= 80:
 else:
     print("Julio es un buen mes para aprobar")
 
+#un cambio
